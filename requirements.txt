@@ -1,0 +1,8 @@
+pvrecorder
+transformers
+soundfile
+datasets==2.13.1
+pyctcdecode==v0.1.0
+evaluate
+jiwer
+https://github.com/kpu/kenlm/archive/master.zip
